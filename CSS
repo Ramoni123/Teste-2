@@ -1,10 +1,13 @@
 p {
     font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .Mapa-RS {
     position: relative;
-    left:420px;
+    left:310px;
     bottom:60px;
 }
+
+
 
